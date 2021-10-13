@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá, eu sou o Artur ✌!
 
-<!--
-**ArturARibeiro/ArturARibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Junior atualmente empregado na empresa Worksphere, com o foco na área Web/Mobile.
 
-Here are some ideas to get you started:
+## Principais Habilidades:
+- **PHP**
+- **Laravel**
+- **JS Vanilla**
+- **JQuery**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente Estudando:
+- React Native
+- Redux
+- AWS
+
+## Projetos Realizados:
+- Sistema de Portaria.
+- Aplicativos PWA.
+- Dashboards Gerenciamento de Estoque.
+- Paginas Web com assutos variados.
+    
