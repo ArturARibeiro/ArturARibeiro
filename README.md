@@ -8,15 +8,15 @@ Sou um desenvolvedor Junior atualmente empregado na empresa Worksphere, com o fo
 - **JS Vanilla**
 - **JQuery**
 - **CSS**
+- **React Native**
 
 ## Atualmente Estudando:
-- React Native
-- Redux
 - AWS
-
+- UX/UI
+- Design Patterns
 ## Projetos Realizados:
 - Sistema de Portaria.
 - Aplicativos PWA.
 - Dashboards Gerenciamento de Estoque.
 - Paginas Web com assutos variados.
-    
+- App de Carteirinha.
