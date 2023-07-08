@@ -1,19 +1,18 @@
 # Olá, eu sou o Artur ✌!
 
-Sou um desenvolvedor Junior atualmente empregado na empresa Worksphere, com o foco na área Web/Mobile.
+Sou um desenvolvedor Pleno atualmente empregado na empresa Worksphere, com o foco na área de FullStack.
 
 ## Principais Habilidades:
 - **PHP**
 - **Laravel**
-- **JS Vanilla**
-- **JQuery**
+- **Javascript**
 - **CSS**
+- **React JS**
 - **React Native**
+- **AWS**
 
 ## Atualmente Estudando:
-- AWS
-- UX/UI
-- Design Patterns
+- Segurança
 ## Projetos Realizados:
 - Sistema de Portaria.
 - Aplicativos PWA.
